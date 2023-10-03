@@ -5,4 +5,4 @@ Nossa missão é clara e impactante: capacitamos indivíduos a iniciar suas jorn
 
 ## Links
 - Relatório da equipe: [Clique aqui](https://docs.google.com/document/d/1JHix2ZFBcct1vHtREXrwP5t5WEjIWbTKp4MFa_CHiAA/edit?usp=sharing)
-- Tarefas: [Clique aqui](...)
+- Tarefas: [Clique aqui](https://trello.com/invite/b/UnZgIbS4/ATTI135af1b14c9613626567e479abdfc854C3376C12/amo-treinamento-soft-e-hard-skills)
